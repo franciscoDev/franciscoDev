@@ -2,7 +2,7 @@
 #### software developer
 ![software developer](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
 
-I worked in some companies in different sectors like financial or entertainment. I learned very useful skills. I like programming video games  in many technologies like unity 3D,phaser.js a so on. My English is intermediate but I practice every day read, write and speak. Read is my passion I think that the books is very important for imagination and ideas. 
+ I like programming video games  in many technologies like unity 3D,phaser.js a so on. Read is my passion I think that the books is very important for imagination and ideas. 
 
 Skills: JS / Angular/ Java / HTML /Android
 
