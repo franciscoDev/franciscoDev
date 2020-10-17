@@ -6,7 +6,6 @@
 
 Skills: JS / Angular/ Java / HTML /Android
 
-- 🔭 I’m currently working on EAFIT University 
 - 🌱 I’m currently learning Flutter,Unity engine 
 
 
